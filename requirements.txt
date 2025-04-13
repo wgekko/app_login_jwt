@@ -2,3 +2,7 @@ streamlit
 bcrypt
 streamlit-cookies-manager
 python-dotenv
+pandas
+numpy
+requests
+plotly
