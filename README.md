@@ -12,3 +12,10 @@ usuario2 - user456
 para ejecutar esta app 
 streamlit run app.py
 
+
+video 
+
+
+https://github.com/user-attachments/assets/95555e38-47d1-4738-ba30-b837c8b171fc
+
+
