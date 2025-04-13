@@ -9,4 +9,6 @@ admin - clave admin123
 usuario1 - user123
 usuario2 - user456
 
+para ejecutar esta app 
+streamlit run app.py
 
