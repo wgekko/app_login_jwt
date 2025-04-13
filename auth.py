@@ -1,8 +1,8 @@
 def authenticate(username, password):
     users = {
         "admin": {"password": "admin123", "role": "admin"},
-        "usuario#1": {"password": "user123", "role": "usuario1"},
-        "usuario#2": {"password": "user234", "role": "usuario2"},
+        "usuario1": {"password": "user123", "role": "usuario1"},
+        "usuario2": {"password": "user234", "role": "usuario2"},
     }
     user = users.get(username)
     if user and user["password"] == password:
