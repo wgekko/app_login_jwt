@@ -20,7 +20,7 @@ show_login_logo()
 
 if "user" in st.session_state:
     with st.spinner("Redirigiendo..."):
-        time.sleep(1)
+        #time.sleep(1)
         st.switch_page("pages/1_Redes Neuronales.py")
 
 
